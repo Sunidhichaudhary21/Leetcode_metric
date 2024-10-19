@@ -1,1 +1,2 @@
 # Leetcode_metric
+LEETMETRIC is a web-based application that helps users track their coding progress on LeetCode. It allows users to input their LeetCode username and fetches statistics such as total solved problems, submission count, and difficulty-wise progress (Easy, Medium, Hard). The progress is visually represented using circular progress indicators and summary cards. With a user-friendly interface, LEETMETRIC provides a quick and interactive way for programmers to monitor their problem-solving journey and performance on LeetCode.
